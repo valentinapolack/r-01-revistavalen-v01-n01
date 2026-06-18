@@ -14,7 +14,7 @@ This study examines the relationship between digital access conditions and acade
 
 Introducción
 
-La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico ---la disponibilidad de dispositivos y conectividad---, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías (Hargittai, 2002; Warschauer, 2004).
+La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico ---la disponibilidad de dispositivos y conectividad---, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías [¨´´´](Hargittai, 2002; Warschauer, 2004).
 
 Este desplazamiento conceptual, que van Dijk (2020) sistematizó en un modelo de cuatro niveles (motivacional, material, de habilidades y de resultados), resulta particularmente relevante para analizar la educación superior. Las universidades públicas latinoamericanas, que atienden a una población estudiantil socialmente heterogénea, se vieron obligadas a adoptar modalidades de enseñanza mediadas por tecnología de manera masiva y abrupta a partir de 2020. Sin embargo, la transición no operó en el vacío: los estudiantes llegaron a ese escenario con dotaciones muy disímiles de recursos digitales.
 
@@ -108,6 +108,5 @@ Hargittai, E. (2002). Second-Level Digital Divide: Differences in People's Onlin
 
 van Deursen, A. J. A. M. y van Dijk, J. A. G. M. (2019). The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access. *New Media & Society*, 21(2), 354-375. https://doi.org/10.1177/1461444817715282
 
-van Dijk, J. A. G. M. (2020). *The Digital Divide*. Polity Press.
 
 
