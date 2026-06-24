@@ -102,9 +102,5 @@ Las implicancias para la política universitaria son claras: las estrategias de 
 
 CEPAL (2021). *Tecnologías digitales para un nuevo futuro* (LC/TS.2021/43). Comisión Económica para América Latina y el Caribe.
 
-Hargittai, E. (2002). Second-Level Digital Divide: Differences in People's Online Skills. *First Monday*, 7(4). https://doi.org/10.5210/fm.v7i4.942
-
-van Deursen, A. J. A. M. y van Dijk, J. A. G. M. (2019). The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access. *New Media & Society*, 21(2), 354-375. https://doi.org/10.1177/1461444817715282
-
 
 
