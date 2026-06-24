@@ -1,8 +1,10 @@
 <body xmlns:xlink="http://www.w3.org/1999/xlink">
 <p>Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México</p>
-<p>##Resumen</p>
-<p>Este estudio analiza la relación entre las condiciones de acceso digital y el rendimiento académico de estudiantes de grado en dos universidades públicas latinoamericanas: la Universidad de Buenos Aires (Argentina) y la Universidad Nacional Autónoma de México. Mediante un diseño de métodos mixtos que combinó una encuesta estructurada (n = 1.247) con entrevistas en profundidad (n = 40), se examinaron cuatro dimensiones de la desigualdad digital: acceso motivacional, acceso material, habilidades digitales y resultados académicos. Los hallazgos muestran que las habilidades digitales constituyen el predictor más fuerte del rendimiento académico y operan como variable mediadora entre el acceso material y los resultados. Las pautas de desigualdad son notablemente similares en ambos contextos nacionales, lo que sugiere determinantes estructurales que trascienden las particularidades locales.</p>
-<p><bold>Palabras clave:</bold> brecha digital, educación superior, desigualdad, habilidades digitales, América Latina</p>
+<sec id="resumen">
+  <title>Resumen</title>
+  <p>Este estudio analiza la relación entre las condiciones de acceso digital y el rendimiento académico de estudiantes de grado en dos universidades públicas latinoamericanas: la Universidad de Buenos Aires (Argentina) y la Universidad Nacional Autónoma de México. Mediante un diseño de métodos mixtos que combinó una encuesta estructurada (n = 1.247) con entrevistas en profundidad (n = 40), se examinaron cuatro dimensiones de la desigualdad digital: acceso motivacional, acceso material, habilidades digitales y resultados académicos. Los hallazgos muestran que las habilidades digitales constituyen el predictor más fuerte del rendimiento académico y operan como variable mediadora entre el acceso material y los resultados. Las pautas de desigualdad son notablemente similares en ambos contextos nacionales, lo que sugiere determinantes estructurales que trascienden las particularidades locales.</p>
+  <p><bold>Palabras clave:</bold> brecha digital, educación superior, desigualdad, habilidades digitales, América Latina</p>
+</sec>
 <sec id="abstract">
   <title>Abstract</title>
   <p>This study examines the relationship between digital access conditions and academic performance among undergraduate students at two Latin American public universities: the University of Buenos Aires (Argentina) and the National Autonomous University of Mexico. Using a mixed-methods design combining a structured survey (n = 1,247) with in-depth interviews (n = 40), four dimensions of digital inequality were examined: motivational access, material access, digital skills, and academic outcomes. Findings show that digital skills are the strongest predictor of academic performance and serve as a mediating variable between material access and outcomes. Inequality patterns are remarkably similar across both national contexts, suggesting structural determinants that transcend local particularities.</p>
@@ -10,15 +12,13 @@
 </sec>
 <sec id="introducción">
   <title>Introducción</title>
-  <p>La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico —la disponibilidad de dispositivos y conectividad—, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías <ext-link ext-link-type="uri" xlink:href="Hargittai,%202002;%20Warschauer,%202004">¨´´´</ext-link>.</p>
+  <p>La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico —la disponibilidad de dispositivos y conectividad—, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías <xref ref-type="bibr" rid="bib-2555-HARGITTAI2002">2555-HARGITTAI2002</xref>, <xref ref-type="bibr" rid="bib-0-WARSCHAUER2004">0-WARSCHAUER2004</xref></p>
   <p>Este desplazamiento conceptual, que van Dijk (2020) sistematizó en un modelo de cuatro niveles (motivacional, material, de habilidades y de resultados), resulta particularmente relevante para analizar la educación superior. Las universidades públicas latinoamericanas, que atienden a una población estudiantil socialmente heterogénea, se vieron obligadas a adoptar modalidades de enseñanza mediadas por tecnología de manera masiva y abrupta a partir de 2020. Sin embargo, la transición no operó en el vacío: los estudiantes llegaron a ese escenario con dotaciones muy disímiles de recursos digitales.</p>
   <p>El presente estudio analiza la relación entre las condiciones de acceso digital de los estudiantes —entendidas en sentido amplio, más allá de la mera conectividad— y su rendimiento académico durante el período 2020-2022 en dos universidades públicas: la Universidad de Buenos Aires (UBA) y la Universidad Nacional Autónoma de México (UNAM). La selección de estos casos responde a su carácter de megauniversidades con poblaciones estudiantiles de extracción social diversa, lo que permite observar la variabilidad interna de la brecha digital en contextos institucionales comparables.</p>
 </sec>
 <sec id="marco-teórico">
   <title>Marco teórico</title>
-</sec>
-<sec id="de-la-brecha-de-acceso-a-la-desigualdad-digital">
-  <title>De la brecha de acceso a la desigualdad digital</title>
+  <p>De la brecha de acceso a la desigualdad digital</p>
   <p>La noción de “brecha digital” surgió en los años noventa asociada a la preocupación por las disparidades en el acceso a computadoras e Internet entre distintos segmentos de la población. En su formulación más temprana, el problema se concebía en términos binarios: conectados y no conectados. Sin embargo, Hargittai (2002) introdujo el concepto de “brecha digital de segundo nivel” para dar cuenta de las diferencias en habilidades y patrones de uso entre quienes ya tenían acceso a la red. Esta distinción abrió un campo de investigación que desplazó el foco desde la infraestructura hacia las prácticas.</p>
   <p>Warschauer (2004) profundizó esta línea al proponer un enfoque de inclusión social que integraba recursos físicos, digitales, humanos e institucionales. Desde esta perspectiva, la tecnología no constituye una variable independiente cuyo efecto pueda aislarse, sino que se inscribe en tramas de relaciones sociales que condicionan tanto su apropiación como sus resultados.</p>
   <p>Más recientemente, van Dijk (2020) consolidó un modelo teórico que distingue cuatro tipos de acceso: motivacional (actitudes y disposiciones hacia la tecnología), material (dispositivos, conectividad y sus características), de habilidades (operativas, informacionales, estratégicas) y de resultados (beneficios concretos obtenidos del uso de tecnología). Este modelo permite operacionalizar la desigualdad digital de manera multidimensional y superar las mediciones basadas exclusivamente en la tenencia de dispositivos o la disponibilidad de conexión.</p>
@@ -33,9 +33,7 @@
 </sec>
 <sec id="resultados">
   <title>Resultados</title>
-</sec>
-<sec id="condiciones-de-acceso-material">
-  <title>Condiciones de acceso material</title>
+  <p>Condiciones de acceso material</p>
   <p>La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas universidades. Se observan diferencias significativas tanto entre universidades como entre quintiles de ingreso.</p>
   <p><bold>Tabla 1.</bold> Condiciones de acceso material por universidad y quintil de ingreso (en porcentajes)</p>
   <table-wrap>
@@ -102,16 +100,12 @@
   </table-wrap>
   <p><italic>Nota: Q1 = primer quintil de ingreso; Q5 = quinto quintil. Elaboración propia sobre datos de la encuesta.</italic></p>
   <p>Los datos revelan una pauta consistente: mientras que los estudiantes del quintil más alto presentan condiciones de acceso material prácticamente universales en ambas universidades, los del quintil más bajo enfrentan restricciones severas en todos los indicadores. La brecha es particularmente pronunciada en la disponibilidad de espacio privado de estudio y en la velocidad de conexión, dos factores que la literatura identifica como determinantes para el aprovechamiento académico de las herramientas digitales.</p>
-</sec>
-<sec id="habilidades-digitales-y-rendimiento-académico">
-  <title>Habilidades digitales y rendimiento académico</title>
+  <p>Habilidades digitales y rendimiento académico</p>
   <p>El análisis de regresión múltiple mostró que las habilidades digitales, medidas mediante la escala adaptada, constituyen el predictor más fuerte del rendimiento académico en el período analizado (β = 0,34; p &lt; 0,001), por encima del acceso material (β = 0,21; p &lt; 0,01) y del acceso motivacional (β = 0,18; p &lt; 0,01). Sin embargo, el análisis de mediación reveló que las habilidades digitales operan, en buena medida, como variable mediadora entre el acceso material y el rendimiento: los estudiantes con mejores condiciones materiales desarrollan habilidades digitales más sofisticadas, lo que a su vez se traduce en mejores resultados académicos.</p>
   <p>La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.</p>
   <p><italic>[Insertar Figura 1 aquí]</italic></p>
   <p><bold>Figura 1.</bold> Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; *p &lt; 0,05; **p &lt; 0,01; ***p &lt; 0,001.</p>
-</sec>
-<sec id="experiencias-de-la-brecha-evidencia-cualitativa">
-  <title>Experiencias de la brecha: evidencia cualitativa</title>
+  <p>Experiencias de la brecha: evidencia cualitativa</p>
   <p>Las entrevistas en profundidad permitieron iluminar los mecanismos concretos a través de los cuales opera la desigualdad digital en la vida cotidiana de los estudiantes. Un hallazgo recurrente fue lo que denominamos “gestión del ancho de banda doméstico”: en hogares donde varios miembros comparten una única conexión, los estudiantes desarrollan estrategias de negociación del uso de Internet que incluyen cursar en horarios de baja demanda, desactivar la cámara durante las clases sincrónicas para reducir el consumo de datos o descargar materiales en horarios nocturnos.</p>
   <p>Otro hallazgo relevante fue la relación entre el tipo de dispositivo y las prácticas de escritura académica. Los estudiantes que accedían predominantemente desde teléfonos móviles reportaron dificultades significativas para la redacción de trabajos extensos, la consulta simultánea de múltiples fuentes y el uso de herramientas de gestión bibliográfica. Estas restricciones operativas se traducían, según los entrevistados, en entregas de menor calidad y en una percepción de desventaja respecto de sus compañeros con mejores condiciones de equipamiento.</p>
 </sec>
@@ -125,8 +119,5 @@
   <title>Conclusiones</title>
   <p>Este estudio aporta evidencia empírica sobre la naturaleza multidimensional de la desigualdad digital en la educación superior latinoamericana. Los datos muestran que, incluso en universidades públicas con políticas activas de inclusión, las condiciones de acceso digital de los estudiantes reproducen las desigualdades socioeconómicas de origen y se traducen en disparidades académicas mensurables.</p>
   <p>Las implicancias para la política universitaria son claras: las estrategias de virtualización o hibridación de la enseñanza deben acompañarse de programas integrales que aborden simultáneamente la provisión de equipamiento, la conectividad, el desarrollo de habilidades digitales y la adaptación de las prácticas pedagógicas a contextos de acceso heterogéneo. De lo contrario, la digitalización de la educación superior corre el riesgo de convertirse en un mecanismo adicional de reproducción de la desigualdad.</p>
-  <p>CEPAL (2021). <italic>Tecnologías digitales para un nuevo futuro</italic> (LC/TS.2021/43). Comisión Económica para América Latina y el Caribe.</p>
-  <p>Hargittai, E. (2002). Second-Level Digital Divide: Differences in People’s Online Skills. <italic>First Monday</italic>, 7(4). https://doi.org/10.5210/fm.v7i4.942</p>
-  <p>van Deursen, A. J. A. M. y van Dijk, J. A. G. M. (2019). The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access. <italic>New Media &amp; Society</italic>, 21(2), 354-375. https://doi.org/10.1177/1461444817715282</p>
 </sec>
 </body>
