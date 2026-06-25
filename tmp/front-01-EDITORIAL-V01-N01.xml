@@ -41,6 +41,43 @@
         <license-p>Creative Commons Attribution (CC BY 4.0)</license-p>
       </license>
     </permissions>
+    <abstract xml:lang="es">
+      <p>El editorial titulado &quot;Las deudas pendientes de la digitalización en América Latina&quot; analiza de forma crítica cómo la pandemia de COVID-19 actuó como un catalizador forzado para la transformación tecnológica en la región. Si bien la crisis sanitaria aceleró procesos que llevaban años gestándose —como la virtualización de la educación, los trámites administrativos y la telemedicina—, esta rapidez también dejó al descubierto y profundizó las fracturas sociales preexistentes.
+Un punto central del análisis es la infraestructura digital profundamente desigual con la que la región enfrentó la crisis. Mientras las grandes áreas metropolitanas contaban con conexiones de banda ancha estables, las zonas rurales y las periferias urbanas carecían de conectividad básica. El autor subraya que esta brecha no es solo física; se manifiesta también en la falta de competencias digitales de la ciudadanía, la carencia de dispositivos adecuados y una debilidad institucional para ofrecer servicios en línea seguros.
+Tres años después del punto más crítico de la pandemia, el balance resulta ambivalente. Aunque ha habido una expansión en la penetración de Internet, ha surgido con fuerza la denominada “brecha digital de segundo nivel”. Esta desigualdad de uso implica que los sectores más pobres acceden a la red principalmente mediante teléfonos móviles con datos limitados, lo cual restringe severamente su participación en actividades educativas o laborales complejas que requieren conexiones robustas y pantallas más grandes.
+El editorial concluye advirtiendo que la digitalización no es un problema meramente tecnológico. Sin políticas públicas integrales que atiendan simultáneamente la conectividad, la formación y el diseño institucional, la tecnología corre el riesgo de amplificar las desigualdades de ingreso, género, etnia y territorio. Finalmente, se presenta esta edición de la revista como una invitación a debatir la transformación digital vinculada a las condiciones materiales de la región, rechazando la idea de que la innovación técnica resolverá por sí sola las deudas históricas sociales.</p>
+    </abstract>
+    <trans-abstract xml:lang="en">
+      <p>The editorial &quot;The Unfulfilled Debts of Digitalization in Latin America&quot; critically examines the technological transformation triggered by the COVID-19 pandemic. The source argues that while the health crisis served as an involuntary accelerator for virtual education, digital governance, and telemedicine, it simultaneously exposed the deep social fractures within the region.
+A fundamental aspect of this issue is the profoundly unequal digital infrastructure. Latin America entered the pandemic with a stark contrast between metropolitan centers with stable broadband and rural or peripheral areas lacking basic connectivity. However, the gap is not just physical; it includes a lack of digital literacy, a shortage of appropriate hardware, and insufficient institutional capacity to sustain secure online services.
+Three years later, the situation remains ambivalent. Despite a significant expansion in internet penetration, a &quot;second-level digital divide&quot; has intensified. This refers to inequalities in how technology is used. Lower-income groups often rely solely on mobile phones with limited data plans, which prevents them from effectively participating in educational or professional activities that demand stable high-speed connections and larger screens.
+The text emphasizes that digitalization is not an exclusively technological challenge. Without comprehensive public policies that address training, institutional design, and relevant content, digital tools risk magnifying existing inequalities based on income, gender, ethnicity, and territory. The author asserts that assuming infrastructure alone solves the problem is a dangerous simplification.
+In conclusion, the editorial introduces a collection of works that analyze digital transformation through the lens of material and symbolic conditions. It calls for an urgent and ongoing debate, reminding readers that technological innovation cannot, on its own, resolve the long-standing social and historical debts of the region</p>
+    </trans-abstract>
+    <kwd-group xml:lang="es" kwd-group-type="author-generated">
+      <kwd>Digitalización</kwd>
+      <kwd>América Latina</kwd>
+      <kwd>Brecha digital</kwd>
+      <kwd>Desigualdad social</kwd>
+      <kwd>Conectividad</kwd>
+      <kwd>Políticas públicas</kwd>
+      <kwd>Competencias digitales</kwd>
+      <kwd>Pandemia de COVID-19</kwd>
+      <kwd>Infraestructura digital</kwd>
+      <kwd>Transformación digital</kwd>
+    </kwd-group>
+    <kwd-group xml:lang="en" kwd-group-type="author-generated">
+      <kwd>Digitalization</kwd>
+      <kwd>Latin America</kwd>
+      <kwd>Digital divide</kwd>
+      <kwd>Social inequality</kwd>
+      <kwd>Connectivity</kwd>
+      <kwd>Public policies</kwd>
+      <kwd>Digital skills</kwd>
+      <kwd>COVID-19 pandemic</kwd>
+      <kwd>Digital infrastructure</kwd>
+      <kwd>Digital transformation</kwd>
+    </kwd-group>
     <custom-meta-group>
       <custom-meta>
         <meta-name>xml-lang</meta-name>

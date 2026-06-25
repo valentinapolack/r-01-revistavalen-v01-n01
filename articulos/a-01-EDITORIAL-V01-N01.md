@@ -1,5 +1,5 @@
 ::: {.editorial}
-Las deudas pendientes de la digitalización en América Latina
+## Las deudas pendientes de la digitalización en América Latina
 
 
 La pandemia de COVID-19 funcionó como un acelerador involuntario de procesos que llevaban años en gestación. En cuestión de semanas, sistemas educativos enteros migraron a plataformas virtuales, trámites administrativos que exigían presencialidad se trasladaron a portales web y la telemedicina dejó de ser una promesa para convertirse en una necesidad imperiosa. Sin embargo, esa aceleración no hizo más que volver más visibles las fracturas que ya existían en el tejido social de la región.

@@ -1,6 +1,6 @@
-# Reseña bibliográfica
+::: {.book-review}
 
-Souza, Jessé. *A elite do atraso: da escravidão à Lava Jato*. São Paulo: Leya, 2017, 242 pp. ISBN 978-85-441-0408-1.
+## Souza, Jessé. *A elite do atraso: da escravidão à Lava Jato*. São Paulo: Leya, 2017, 242 pp. ISBN 978-85-441-0408-1.
 
 **Presentación y contexto**
 
@@ -21,3 +21,5 @@ El libro no está exento de debilidades. La crítica a Freyre, Buarque de Holand
 **Conclusión**
 
 Estas objeciones, sin embargo, no disminuyen el valor del libro como intervención intelectual. *A elite do atraso* cumple con la función que toda buena obra de ciencias sociales debería cumplir: obligar a repensar categorías que se daban por sentadas. Para los lectores de habla hispana, el texto ofrece además una oportunidad de reflexionar sobre las propias tradiciones interpretativas nacionales y sobre el modo en que las élites de cada país han construido relatos funcionales a la reproducción de sus privilegios. En un momento en que las derechas radicales avanzan en toda la región apelando a discursos que combinan la meritocracia individual con el desprecio hacia los sectores populares, la lectura de Souza resulta no solo pertinente sino urgente.
+
+:::
