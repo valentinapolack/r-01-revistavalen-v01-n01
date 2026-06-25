@@ -44,6 +44,29 @@
         <license-p>Creative Commons Attribution (CC BY 4.0)</license-p>
       </license>
     </permissions>
+    <abstract xml:lang="es">
+      <p>Este estudio analiza la relación entre las condiciones de acceso digital y el rendimiento académico de estudiantes de grado en dos universidades públicas latinoamericanas: la Universidad de Buenos Aires (Argentina) y la Universidad Nacional Autónoma de México. Mediante un diseño de métodos mixtos que combinó una encuesta estructurada (n = 1.247) con entrevistas en profundidad (n = 40), se examinaron cuatro dimensiones de la desigualdad digital: acceso motivacional, acceso material, habilidades digitales y resultados académicos. Los hallazgos muestran que las habilidades digitales constituyen el predictor más fuerte del rendimiento académico y operan como variable mediadora entre el acceso material y los resultados. Las pautas de desigualdad son notablemente similares en ambos contextos nacionales, lo que sugiere determinantes estructurales que trascienden las particularidades locales.</p>
+    </abstract>
+    <trans-abstract xml:lang="en">
+      <p>The article titled &quot;Digital Inequality and Academic Performance in Higher Education: A Comparative Study at Public Universities in Argentina and Mexico&quot; offers a comprehensive analysis of how digital access conditions impact the academic success of undergraduate students. The study focuses on two of the largest public institutions in Latin America: the University of Buenos Aires (UBA) and the National Autonomous University of Mexico (UNAM). By examining these &quot;mega-universities,&quot; the authors aim to identify how the digital divide manifests within socially diverse student populations during and after the abrupt transition to virtual learning caused by the COVID-19 pandemic.
+Historically, the &quot;digital divide&quot; was viewed through a binary lens of those with or without physical access to technology. However, this study adopts a multidimensional framework, specifically the model proposed by Jan van Dijk, which identifies four levels of access: motivational (attitudes), material (devices and connectivity), skills (digital literacy), and results (the actual benefits derived from technology). This perspective allows the research to move beyond simple connectivity statistics and explore the &quot;second-level digital divide,&quot; which concerns disparities in how people use and benefit from digital tools.
+The research employed a mixed-methods design, combining a structured survey of 1,247 students with 40 in-depth interviews. The quantitative data revealed stark disparities in material access based on socio-economic background. For instance, while nearly 95% of students in the highest income quintile (Q5) in both universities possessed their own laptop and a high-speed connection, less than 43% of students in the lowest quintile (Q1) had a computer. Furthermore, the lack of a private study space and sufficient connection speeds for simultaneous household use were significant hurdles for low-income students.
+This study examines the relationship between digital access conditions and academic performance among undergraduate students at two Latin American public universities: the University of Buenos Aires (Argentina) and the National Autonomous University of Mexico. Using a mixed-methods design combining a structured survey (n = 1,247) with in-depth interviews (n = 40), four dimensions of digital inequality were examined: motivational access, material access, digital skills, and academic outcomes. Findings show that digital skills are the strongest predictor of academic performance and serve as a mediating variable between material access and outcomes. Inequality patterns are remarkably similar across both national contexts, suggesting structural determinants that transcend local particularities.</p>
+    </trans-abstract>
+    <kwd-group xml:lang="es" kwd-group-type="author-generated">
+      <kwd>brecha digital</kwd>
+      <kwd>educación superior</kwd>
+      <kwd>desigualdad</kwd>
+      <kwd>habilidades digitales</kwd>
+      <kwd>América Latina</kwd>
+    </kwd-group>
+    <kwd-group xml:lang="en" kwd-group-type="author-generated">
+      <kwd>digital divide</kwd>
+      <kwd>higher education</kwd>
+      <kwd>inequality</kwd>
+      <kwd>digital skills</kwd>
+      <kwd>Latin America</kwd>
+    </kwd-group>
     <custom-meta-group>
       <custom-meta>
         <meta-name>xml-lang</meta-name>
