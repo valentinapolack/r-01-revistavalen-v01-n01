@@ -2,7 +2,7 @@
 
 ## Introducción
 
-La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico ---la disponibilidad de dispositivos y conectividad---, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías [@2555HARGITTAI2002; @0WARSCHAUER2004]
+La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico ---la disponibilidad de dispositivos y conectividad---, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías [@2555HARGITTAI2002; @2552WARSCHAUER2004]
 
 Este desplazamiento conceptual, que van Dijk [@2553VANDIJK2020] sistematizó en un modelo de cuatro niveles (motivacional, material, de habilidades y de resultados), resulta particularmente relevante para analizar la educación superior. Las universidades públicas latinoamericanas, que atienden a una población estudiantil socialmente heterogénea, se vieron obligadas a adoptar modalidades de enseñanza mediadas por tecnología de manera masiva y abrupta a partir de 2020. Sin embargo, la transición no operó en el vacío: los estudiantes llegaron a ese escenario con dotaciones muy disímiles de recursos digitales.
 
@@ -16,7 +16,7 @@ El presente estudio analiza la relación entre las condiciones de acceso digital
 
 La noción de "brecha digital" surgió en los años noventa asociada a la preocupación por las disparidades en el acceso a computadoras e Internet entre distintos segmentos de la población. En su formulación más temprana, el problema se concebía en términos binarios: conectados y no conectados. Sin embargo, Hargittai [@2555HARGITTAI2002] introdujo el concepto de "brecha digital de segundo nivel" para dar cuenta de las diferencias en habilidades y patrones de uso entre quienes ya tenían acceso a la red. Esta distinción abrió un campo de investigación que desplazó el foco desde la infraestructura hacia las prácticas.
 
-Warschauer [@0WARSCHAUER2004] profundizó esta línea al proponer un enfoque de inclusión social que integraba recursos físicos, digitales, humanos e institucionales. Desde esta perspectiva, la tecnología no constituye una variable independiente cuyo efecto pueda aislarse, sino que se inscribe en tramas de relaciones sociales que condicionan tanto su apropiación como sus resultados.
+Warschauer [@2552WARSCHAUER2004] profundizó esta línea al proponer un enfoque de inclusión social que integraba recursos físicos, digitales, humanos e institucionales. Desde esta perspectiva, la tecnología no constituye una variable independiente cuyo efecto pueda aislarse, sino que se inscribe en tramas de relaciones sociales que condicionan tanto su apropiación como sus resultados.
 
 Más recientemente, van Dijk [@2553VANDIJK2020] consolidó un modelo teórico que distingue cuatro tipos de acceso: motivacional (actitudes y disposiciones hacia la tecnología), material (dispositivos, conectividad y sus características), de habilidades (operativas, informacionales, estratégicas) y de resultados (beneficios concretos obtenidos del uso de tecnología). Este modelo permite operacionalizar la desigualdad digital de manera multidimensional y superar las mediciones basadas exclusivamente en la tenencia de dispositivos o la disponibilidad de conexión.
 
@@ -41,7 +41,6 @@ Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acces
 La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas universidades. Se observan diferencias significativas tanto entre universidades como entre quintiles de ingreso.
 
 ::: {.table #TablaNumero1}
-**Tabla 1.** Condiciones de acceso material por universidad y quintil de ingreso (en porcentajes)
 
   -------------------------------------- ------------ ------------ ------------- -------------
   **Indicador**                          **UBA Q1**   **UBA Q5**   **UNAM Q1**   **UNAM Q5**
@@ -59,7 +58,7 @@ La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas
   Acceso simultáneo sin degradación      19,7         82,5         15,3          79,8
   -------------------------------------- ------------ ------------ ------------- -------------
 
-*Nota: Q1 = primer quintil de ingreso; Q5 = quinto quintil. Elaboración propia sobre datos de la encuesta.*
+**Tabla 1.** Condiciones de acceso material por universidad y quintil de ingreso (en porcentajes). *Nota: Q1 = primer quintil de ingreso; Q5 = quinto quintil. Elaboración propia sobre datos de la encuesta.*
 :::
 
 Los datos revelan una pauta consistente: mientras que los estudiantes del quintil más alto presentan condiciones de acceso material prácticamente universales en ambas universidades, los del quintil más bajo enfrentan restricciones severas en todos los indicadores. La brecha es particularmente pronunciada en la disponibilidad de espacio privado de estudio y en la velocidad de conexión, dos factores que la literatura identifica como determinantes para el aprovechamiento académico de las herramientas digitales.
@@ -70,9 +69,14 @@ El análisis de regresión múltiple mostró que las habilidades digitales, medi
 
 La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.
 
-*\[Insertar Figura 1 aquí\]*
+:::{.figure #Figura01}
+
+![](media/ChatGPT Image Jun 26, 2026, 01_56_56 AM.png)
+
+:::
 
 **Figura 1.** Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; \*p \< 0,05; \*\*p \< 0,01; \*\*\*p \< 0,001.
+:::
 
 ## Experiencias de la brecha: evidencia cualitativa
 
