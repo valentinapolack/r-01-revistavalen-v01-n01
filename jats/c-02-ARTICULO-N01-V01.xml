@@ -87,26 +87,26 @@ This study examines the relationship between digital access conditions and acade
    <body>
       <sec id="sec-1">
          <title>Introducción</title>
-         <p>La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico —la disponibilidad de dispositivos y conectividad—, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías <xref ref-type="bibr" rid="bib-2555HARGITTAI2002">2555HARGITTAI2002</xref>, <xref ref-type="bibr" rid="bib-2552WARSCHAUER2004">2552WARSCHAUER2004</xref>
+         <p>La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico —la disponibilidad de dispositivos y conectividad—, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías <xref ref-type="bibr" rid="bib-2555-HARGITTAI2002">2555-HARGITTAI2002</xref>, <xref ref-type="bibr" rid="bib-2552-WARSCHAUER2004">2552-WARSCHAUER2004</xref>
          </p>
-         <p>Este desplazamiento conceptual, que van Dijk <xref ref-type="bibr" rid="bib-2553VANDIJK2020">2553VANDIJK2020</xref> sistematizó en un modelo de cuatro niveles (motivacional, material, de habilidades y de resultados), resulta particularmente relevante para analizar la educación superior. Las universidades públicas latinoamericanas, que atienden a una población estudiantil socialmente heterogénea, se vieron obligadas a adoptar modalidades de enseñanza mediadas por tecnología de manera masiva y abrupta a partir de 2020. Sin embargo, la transición no operó en el vacío: los estudiantes llegaron a ese escenario con dotaciones muy disímiles de recursos digitales.</p>
+         <p>Este desplazamiento conceptual, que van Dijk <xref ref-type="bibr" rid="bib-2553-VANDIJK2020">2553-VANDIJK2020</xref> sistematizó en un modelo de cuatro niveles (motivacional, material, de habilidades y de resultados), resulta particularmente relevante para analizar la educación superior. Las universidades públicas latinoamericanas, que atienden a una población estudiantil socialmente heterogénea, se vieron obligadas a adoptar modalidades de enseñanza mediadas por tecnología de manera masiva y abrupta a partir de 2020. Sin embargo, la transición no operó en el vacío: los estudiantes llegaron a ese escenario con dotaciones muy disímiles de recursos digitales.</p>
          <p>El presente estudio analiza la relación entre las condiciones de acceso digital de los estudiantes —entendidas en sentido amplio, más allá de la mera conectividad— y su rendimiento académico durante el período 2020-2022 en dos universidades públicas: la Universidad de Buenos Aires (UBA) y la Universidad Nacional Autónoma de México (UNAM). La selección de estos casos responde a su carácter de megauniversidades con poblaciones estudiantiles de extracción social diversa, lo que permite observar la variabilidad interna de la brecha digital en contextos institucionales comparables.</p>
       </sec>
       <sec id="sec-2">
          <title>De la brecha de acceso a la desigualdad digital</title>
-         <p>La noción de “brecha digital” surgió en los años noventa asociada a la preocupación por las disparidades en el acceso a computadoras e Internet entre distintos segmentos de la población. En su formulación más temprana, el problema se concebía en términos binarios: conectados y no conectados. Sin embargo, Hargittai <xref ref-type="bibr" rid="bib-2555HARGITTAI2002">2555HARGITTAI2002</xref> introdujo el concepto de “brecha digital de segundo nivel” para dar cuenta de las diferencias en habilidades y patrones de uso entre quienes ya tenían acceso a la red. Esta distinción abrió un campo de investigación que desplazó el foco desde la infraestructura hacia las prácticas.</p>
-         <p>Warschauer <xref ref-type="bibr" rid="bib-2552WARSCHAUER2004">2552WARSCHAUER2004</xref> profundizó esta línea al proponer un enfoque de inclusión social que integraba recursos físicos, digitales, humanos e institucionales. Desde esta perspectiva, la tecnología no constituye una variable independiente cuyo efecto pueda aislarse, sino que se inscribe en tramas de relaciones sociales que condicionan tanto su apropiación como sus resultados.</p>
-         <p>Más recientemente, van Dijk <xref ref-type="bibr" rid="bib-2553VANDIJK2020">2553VANDIJK2020</xref> consolidó un modelo teórico que distingue cuatro tipos de acceso: motivacional (actitudes y disposiciones hacia la tecnología), material (dispositivos, conectividad y sus características), de habilidades (operativas, informacionales, estratégicas) y de resultados (beneficios concretos obtenidos del uso de tecnología). Este modelo permite operacionalizar la desigualdad digital de manera multidimensional y superar las mediciones basadas exclusivamente en la tenencia de dispositivos o la disponibilidad de conexión.</p>
+         <p>La noción de “brecha digital” surgió en los años noventa asociada a la preocupación por las disparidades en el acceso a computadoras e Internet entre distintos segmentos de la población. En su formulación más temprana, el problema se concebía en términos binarios: conectados y no conectados. Sin embargo, Hargittai <xref ref-type="bibr" rid="bib-2555-HARGITTAI2002">2555-HARGITTAI2002</xref> introdujo el concepto de “brecha digital de segundo nivel” para dar cuenta de las diferencias en habilidades y patrones de uso entre quienes ya tenían acceso a la red. Esta distinción abrió un campo de investigación que desplazó el foco desde la infraestructura hacia las prácticas.</p>
+         <p>Warschauer <xref ref-type="bibr" rid="bib-2552-WARSCHAUER2004">2552-WARSCHAUER2004</xref> profundizó esta línea al proponer un enfoque de inclusión social que integraba recursos físicos, digitales, humanos e institucionales. Desde esta perspectiva, la tecnología no constituye una variable independiente cuyo efecto pueda aislarse, sino que se inscribe en tramas de relaciones sociales que condicionan tanto su apropiación como sus resultados.</p>
+         <p>Más recientemente, van Dijk <xref ref-type="bibr" rid="bib-2553-VANDIJK2020">2553-VANDIJK2020</xref> consolidó un modelo teórico que distingue cuatro tipos de acceso: motivacional (actitudes y disposiciones hacia la tecnología), material (dispositivos, conectividad y sus características), de habilidades (operativas, informacionales, estratégicas) y de resultados (beneficios concretos obtenidos del uso de tecnología). Este modelo permite operacionalizar la desigualdad digital de manera multidimensional y superar las mediciones basadas exclusivamente en la tenencia de dispositivos o la disponibilidad de conexión.</p>
       </sec>
       <sec id="sec-3">
          <title>La brecha digital en la educación superior latinoamericana</title>
-         <p>En el contexto específico de América Latina, la CEPAL ha documentado extensamente las disparidades en el acceso y uso de tecnologías digitales, señalando que estas reproducen y profundizan desigualdades preexistentes de ingreso, género, etnia y territorio <xref ref-type="bibr" rid="bib-2556CEPAL2021">2556CEPAL2021</xref> . La educación superior no escapa a esta dinámica: si bien las tasas de conectividad entre estudiantes universitarios son superiores al promedio nacional en todos los países de la región, las condiciones de ese acceso —calidad de la conexión, tipo de dispositivo, disponibilidad de un espacio adecuado para el estudio— varían enormemente según el origen socioeconómico del estudiante.</p>
+         <p>En el contexto específico de América Latina, la CEPAL ha documentado extensamente las disparidades en el acceso y uso de tecnologías digitales, señalando que estas reproducen y profundizan desigualdades preexistentes de ingreso, género, etnia y territorio <xref ref-type="bibr" rid="bib-2556-CEPAL2021">2556-CEPAL2021</xref> . La educación superior no escapa a esta dinámica: si bien las tasas de conectividad entre estudiantes universitarios son superiores al promedio nacional en todos los países de la región, las condiciones de ese acceso —calidad de la conexión, tipo de dispositivo, disponibilidad de un espacio adecuado para el estudio— varían enormemente según el origen socioeconómico del estudiante.</p>
          <p>Van Deursen y van Dijk <xref ref-type="bibr" rid="bib-2554VANDEURSEN2019">2554VANDEURSEN2019</xref> mostraron que la brecha digital de primer nivel se ha desplazado desde las diferencias en el acceso físico hacia las desigualdades en el acceso material: ya no se trata solo de tener o no tener Internet, sino de las condiciones concretas en que se accede. Un estudiante que solo dispone de un teléfono celular con datos móviles limitados enfrenta restricciones cualitativas muy distintas a las de quien cuenta con una computadora de escritorio, conexión de fibra óptica y un espacio privado de trabajo. Estas diferencias, a menudo invisibilizadas por las estadísticas agregadas de penetración de Internet, tienen consecuencias directas sobre las posibilidades de aprendizaje.</p>
       </sec>
       <sec id="sec-4">
          <title>Metodología</title>
          <p>Se diseñó un estudio de métodos mixtos con un componente cuantitativo principal y un componente cualitativo complementario. La muestra cuantitativa incluyó 1.247 estudiantes de grado: 623 de la Facultad de Ciencias Sociales de la UBA y 624 de la Facultad de Ciencias Políticas y Sociales de la UNAM, seleccionados mediante muestreo estratificado por carrera y año de cursada durante el segundo semestre de 2022.</p>
-         <p>Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acceso digital, operacionalizadas a partir del modelo de van Dijk <xref ref-type="bibr" rid="bib-2553VANDIJK2020">2553VANDIJK2020</xref> : acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk <xref ref-type="bibr" rid="bib-2554VANDEURSEN2019">2554VANDEURSEN2019</xref> , 12 ítems, α = 0,91) y resultados académicos (promedio ponderado del período 2020-2022, materias aprobadas por semestre). El componente cualitativo consistió en 40 entrevistas semiestructuradas (20 por universidad) con estudiantes que presentaban perfiles contrastantes en las variables de interés.</p>
+         <p>Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acceso digital, operacionalizadas a partir del modelo de van Dijk <xref ref-type="bibr" rid="bib-2553-VANDIJK2020">2553-VANDIJK2020</xref> : acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk <xref ref-type="bibr" rid="bib-2554VANDEURSEN2019">2554VANDEURSEN2019</xref> , 12 ítems, α = 0,91) y resultados académicos (promedio ponderado del período 2020-2022, materias aprobadas por semestre). El componente cualitativo consistió en 40 entrevistas semiestructuradas (20 por universidad) con estudiantes que presentaban perfiles contrastantes en las variables de interés.</p>
       </sec>
       <sec id="sec-5">
          <title>Condiciones de acceso material</title>
@@ -202,9 +202,9 @@ This study examines the relationship between digital access conditions and acade
       </sec>
       <sec id="sec-8">
          <title>Discusión</title>
-         <p>Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk <xref ref-type="bibr" rid="bib-2553VANDIJK2020">2553VANDIJK2020</xref> para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad —que, aun siendo desigual, ha mejorado significativamente— sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.</p>
-         <p>El efecto mediador de las habilidades digitales sobre la relación entre acceso material y rendimiento coincide con lo reportado por Hargittai <xref ref-type="bibr" rid="bib-2555HARGITTAI2002">2555HARGITTAI2002</xref> en contextos del norte global y sugiere que las políticas de inclusión digital que se limitan a la provisión de dispositivos y conectividad resultan necesarias pero insuficientes. Sin intervenciones específicas orientadas al desarrollo de competencias digitales —no solo instrumentales sino también informacionales y estratégicas—, el acceso material no se traduce automáticamente en mejores oportunidades educativas.</p>
-         <p>La comparación entre la UBA y la UNAM muestra pautas notablemente similares en ambos contextos, lo que sugiere que la desigualdad digital en la educación superior responde a factores estructurales que trascienden las particularidades nacionales. En ambos casos, la variable con mayor poder discriminante es el origen socioeconómico del estudiante, que condiciona simultáneamente las distintas dimensiones del acceso digital. Este hallazgo es consistente con la tesis de la CEPAL sobre la reproducción digital de la “matriz de la desigualdad social” latinoamericana <xref ref-type="bibr" rid="bib-2556CEPAL2021">2556CEPAL2021</xref>.</p>
+         <p>Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk <xref ref-type="bibr" rid="bib-2553-VANDIJK2020">2553-VANDIJK2020</xref> para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad —que, aun siendo desigual, ha mejorado significativamente— sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.</p>
+         <p>El efecto mediador de las habilidades digitales sobre la relación entre acceso material y rendimiento coincide con lo reportado por Hargittai <xref ref-type="bibr" rid="bib-2555-HARGITTAI2002">2555-HARGITTAI2002</xref> en contextos del norte global y sugiere que las políticas de inclusión digital que se limitan a la provisión de dispositivos y conectividad resultan necesarias pero insuficientes. Sin intervenciones específicas orientadas al desarrollo de competencias digitales —no solo instrumentales sino también informacionales y estratégicas—, el acceso material no se traduce automáticamente en mejores oportunidades educativas.</p>
+         <p>La comparación entre la UBA y la UNAM muestra pautas notablemente similares en ambos contextos, lo que sugiere que la desigualdad digital en la educación superior responde a factores estructurales que trascienden las particularidades nacionales. En ambos casos, la variable con mayor poder discriminante es el origen socioeconómico del estudiante, que condiciona simultáneamente las distintas dimensiones del acceso digital. Este hallazgo es consistente con la tesis de la CEPAL sobre la reproducción digital de la “matriz de la desigualdad social” latinoamericana <xref ref-type="bibr" rid="bib-2556-CEPAL2021">2556-CEPAL2021</xref> .</p>
       </sec>
       <sec id="sec-9">
          <title>Conclusiones</title>
@@ -212,4 +212,64 @@ This study examines the relationship between digital access conditions and acade
          <p>Las implicancias para la política universitaria son claras: las estrategias de virtualización o hibridación de la enseñanza deben acompañarse de programas integrales que aborden simultáneamente la provisión de equipamiento, la conectividad, el desarrollo de habilidades digitales y la adaptación de las prácticas pedagógicas a contextos de acceso heterogéneo. De lo contrario, la digitalización de la educación superior corre el riesgo de convertirse en un mecanismo adicional de reproducción de la desigualdad.</p>
       </sec>
    </body>
+   <back>
+      <ref-list>
+         <ref id="bib-2555-HARGITTAI2002">
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hargittai</surname>
+                     <given-names>Eszter</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Second-Level Digital Divide: Differences in People's Online Skills</chapter-title>
+               <source>First Monday</source>
+               <year>2002</year>
+               <volume>7</volume>
+               <issue>4</issue>
+               <issn>1396-0466</issn>
+               <pub-id pub-id-type="doi">10.5210/fm.v7i4.942</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="bib-2552-WARSCHAUER2004">
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Warschauer</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <source>Technology and Social Inclusion: Rethinking the Digital Divide</source>
+               <publisher-name>The MIT Press</publisher-name>
+               <year>2004</year>
+            </element-citation>
+         </ref>
+         <ref id="bib-2553-VANDIJK2020">
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>van Dijk</surname>
+                     <given-names>J. A. G. M</given-names>
+                  </name>
+               </person-group>
+               <source>The Digital Divide</source>
+               <publisher-name>Polity Press</publisher-name>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="bib-2556-CEPAL2021">
+            <element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>CEPAL</surname>
+                  </name>
+               </person-group>
+               <source>Tecnologías digitales para un nuevo futuro</source>
+               <publisher-name>Comisión Económica para América Latina y el Caribe</publisher-name>
+               <year>2021</year>
+            </element-citation>
+         </ref>
+         <!-- ADVERTENCIA: citekey '2554VANDEURSEN2019' no encontrado en el .bib -->
+      </ref-list>
+   </back>
 </article>

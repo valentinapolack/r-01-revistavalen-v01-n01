@@ -1,7 +1,58 @@
 <ref-list xmlns:xlink="http://www.w3.org/1999/xlink">
-  <!-- ADVERTENCIA: citekey '2555HARGITTAI2002' no encontrado en el .bib -->
-  <!-- ADVERTENCIA: citekey '2552WARSCHAUER2004' no encontrado en el .bib -->
-  <!-- ADVERTENCIA: citekey '2553VANDIJK2020' no encontrado en el .bib -->
-  <!-- ADVERTENCIA: citekey '2556CEPAL2021' no encontrado en el .bib -->
+  <ref id="bib-2555-HARGITTAI2002">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Hargittai</surname>
+          <given-names>Eszter</given-names>
+        </name>
+      </person-group>
+      <chapter-title>Second-Level Digital Divide: Differences in People's Online Skills</chapter-title>
+      <source>First Monday</source>
+      <year>2002</year>
+      <volume>7</volume>
+      <issue>4</issue>
+      <issn>1396-0466</issn>
+      <pub-id pub-id-type="doi">10.5210/fm.v7i4.942</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="bib-2552-WARSCHAUER2004">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Warschauer</surname>
+          <given-names>M.</given-names>
+        </name>
+      </person-group>
+      <source>Technology and Social Inclusion: Rethinking the Digital Divide</source>
+      <publisher-name>The MIT Press</publisher-name>
+      <year>2004</year>
+    </element-citation>
+  </ref>
+  <ref id="bib-2553-VANDIJK2020">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name>
+          <surname>van Dijk</surname>
+          <given-names>J. A. G. M</given-names>
+        </name>
+      </person-group>
+      <source>The Digital Divide</source>
+      <publisher-name>Polity Press</publisher-name>
+      <year>2020</year>
+    </element-citation>
+  </ref>
+  <ref id="bib-2556-CEPAL2021">
+    <element-citation publication-type="report">
+      <person-group person-group-type="author">
+        <name>
+          <surname>CEPAL</surname>
+        </name>
+      </person-group>
+      <source>Tecnologías digitales para un nuevo futuro</source>
+      <publisher-name>Comisión Económica para América Latina y el Caribe</publisher-name>
+      <year>2021</year>
+    </element-citation>
+  </ref>
   <!-- ADVERTENCIA: citekey '2554VANDEURSEN2019' no encontrado en el .bib -->
 </ref-list>
