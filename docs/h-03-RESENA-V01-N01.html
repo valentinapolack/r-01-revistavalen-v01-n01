@@ -12,6 +12,7 @@
           ================================================
         -->
       <meta name="citation_title" content="Reseña bibliográfica">
+      <meta name="citation_doi" content="10.5210/fm.v7i4.942">
       <meta name="citation_journal_title" content="Revista Valen de ideas">
       <meta name="citation_issn" content="0262-2130">
       <meta name="citation_volume" content="01">
@@ -22,6 +23,7 @@
       <meta name="citation_fulltext_html_url" content="https://www.wattpad.com/">
       <meta name="citation_author" content="Polack, Valentina">
       <meta name="citation_author_orcid" content="https://orcid.org/0009-0007-5867-5325">
+      <meta name="citation_author_institution" content="Universidad de Buenos Aires">
       <meta name="citation_publisher" content="Polack Ediciones">
       <!--
           ================================================
@@ -34,6 +36,7 @@
       <meta name="DC.type" content="Text">
       <meta name="DC.format" content="text/html">
       <meta name="DC.publisher" content="Polack Ediciones">
+      <meta name="DC.identifier" content="https://doi.org/10.5210/fm.v7i4.942">
       <meta name="DC.date" content="2026">
       <meta name="DC.rights" content="https://creativecommons.org/licenses/by/4.0/">
       <meta name="DC.creator" content="Polack, Valentina">
@@ -55,7 +58,7 @@
           METADATOS: Schema.org JSON-LD (ScholarlyArticle)
           Datos estructurados para motores de búsqueda
           ================================================
-        --><script type="application/ld+json">{"@context":"https://schema.org","@type":"ScholarlyArticle","headline":"Reseña bibliográfica","inLanguage":"es","url":"https://www.wattpad.com/","datePublished":"2026-06-01T00:00:00-03:00","image":"media/foto-tapa.png","author":[{"@type":"Person","name":"Valentina Polack","@id":"https://orcid.org/0009-0007-5867-5325"}],"publisher":{"@type":"Organization","name":"Polack Ediciones"},"isPartOf":{"@type":"PublicationIssue","issueNumber":"01","isPartOf":{"@type":"PublicationVolume","volumeNumber":"01","isPartOf":{"@type":"Periodical","name":"Revista Valen de ideas","issn":"0262-2130"}}},"license":"https://creativecommons.org/licenses/by/4.0/"}</script><script>
+        --><script type="application/ld+json">{"@context":"https://schema.org","@type":"ScholarlyArticle","headline":"Reseña bibliográfica","inLanguage":"es","identifier":{"@type":"PropertyValue","propertyID":"DOI","value":"10.5210/fm.v7i4.942"},"url":"https://www.wattpad.com/","datePublished":"2026-06-01T00:00:00-03:00","image":"media/foto-tapa.png","author":[{"@type":"Person","name":"Valentina Polack","@id":"https://orcid.org/0009-0007-5867-5325","affiliation":{"@type":"Organization","name":"Universidad de Buenos Aires"}}],"publisher":{"@type":"Organization","name":"Polack Ediciones"},"isPartOf":{"@type":"PublicationIssue","issueNumber":"01","isPartOf":{"@type":"PublicationVolume","volumeNumber":"01","isPartOf":{"@type":"Periodical","name":"Revista Valen de ideas","issn":"0262-2130"}}},"license":"https://creativecommons.org/licenses/by/4.0/"}</script><script>
           MathJax = {
             tex: {
               inlineMath: [['$', '$'], ['\\(', '\\)']],
@@ -923,6 +926,19 @@
             padding: 0 2px;
           }
 
+          /* CITA HUÉRFANA — ref no encontrada en el reflist
+             VISUALMENTE DISTINGUIBLE PARA QUE EL OPERADOR/REVISOR LA NOTE */
+          .xref-bibr-orphan {
+            color: #c0392b;
+            background: #fdecea;
+            border: 1px dashed #c0392b;
+            border-radius: 2px;
+            padding: 0 4px;
+            font-style: italic;
+            font-size: 0.92em;
+            cursor: help;
+          }
+
           /* ============================================
              COLUMNA DERECHA — PANEL LATERAL
              ============================================ */
@@ -1265,6 +1281,7 @@
                <div class="meta-label">Autoría</div>
                <div class="autor-item">
                   <div class="autor-nombre-linea"><span class="autor-nombre">Valentina Polack</span><a class="autor-orcid" href="https://orcid.org/0009-0007-5867-5325" target="_blank" rel="noopener noreferrer">ORCID ↗</a></div>
+                  <div class="autor-afil">Universidad de Buenos Aires</div>
                </div>
             </div>
             <div class="meta-seccion">
@@ -1275,6 +1292,9 @@
             <div class="meta-seccion">
                <div class="meta-label">Publicación</div>
                <div class="meta-valor">2026, vol. 01, núm. 01</div>
+            </div>
+            <div class="meta-seccion">
+               <div class="meta-valor"><span class="meta-key">DOI: </span><a class="doi-link" href="https://doi.org/10.5210/fm.v7i4.942" target="_blank" rel="noopener noreferrer">10.5210/fm.v7i4.942</a></div>
             </div>
             <div class="meta-seccion"><a class="btn-descargar-pdf" href="https://thestorygraph.com/" target="_blank" rel="noopener noreferrer">
                   Descargar PDF
@@ -1399,7 +1419,7 @@
           var citaData = {
             titulo:  "Reseña bibliográfica",
             revista: "Revista Valen de ideas",
-            doi:     "",
+            doi:     "10.5210/fm.v7i4.942",
             anio:    "2026",
             volumen: "01",
             numero:  "01",

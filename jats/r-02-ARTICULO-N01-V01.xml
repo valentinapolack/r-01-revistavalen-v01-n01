@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article
-  PUBLIC "-//NLM//DTD JATS (Z39.96) Article Archiving and Interchange DTD v1.4//EN" "https://jats.nlm.nih.gov/archiving/1.4/JATS-archivearticle1-4.dtd">
-<article xmlns:xlink="http://www.w3.org/1999/xlink"
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.4 20151215//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         dtd-version="1.4"
          article-type="research-article"
          xml:lang="es">
    <front>
@@ -31,7 +33,7 @@
          </title-group>
          <contrib-group>
             <contrib contrib-type="author" id="a1">
-               <name>
+               <name name-style="western">
                   <surname>Polack</surname>
                   <given-names>Valentina</given-names>
                </name>
@@ -77,16 +79,10 @@ This study examines the relationship between digital access conditions and acade
             <kwd>digital skills</kwd>
             <kwd>Latin America</kwd>
          </kwd-group>
-         <custom-meta-group>
-            <custom-meta>
-               <meta-name>xml-lang</meta-name>
-               <meta-value>es</meta-value>
-            </custom-meta>
-         </custom-meta-group>
       </article-meta>
    </front>
    <body>
-      <sec id="sec-1">
+      <sec id="sec-1" sec-type="intro">
          <title>Introducción</title>
          <p>La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico —la disponibilidad de dispositivos y conectividad—, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías <xref ref-type="bibr" rid="bib-2555-HARGITTAI2002">2555-HARGITTAI2002</xref>, <xref ref-type="bibr" rid="bib-2552-WARSCHAUER2004">2552-WARSCHAUER2004</xref>
          </p>
@@ -104,7 +100,7 @@ This study examines the relationship between digital access conditions and acade
          <p>En el contexto específico de América Latina, la CEPAL ha documentado extensamente las disparidades en el acceso y uso de tecnologías digitales, señalando que estas reproducen y profundizan desigualdades preexistentes de ingreso, género, etnia y territorio <xref ref-type="bibr" rid="bib-2556-CEPAL2021">2556-CEPAL2021</xref> . La educación superior no escapa a esta dinámica: si bien las tasas de conectividad entre estudiantes universitarios son superiores al promedio nacional en todos los países de la región, las condiciones de ese acceso —calidad de la conexión, tipo de dispositivo, disponibilidad de un espacio adecuado para el estudio— varían enormemente según el origen socioeconómico del estudiante.</p>
          <p>Van Deursen y van Dijk <xref ref-type="bibr" rid="bib-2554VANDEURSEN2019">2554VANDEURSEN2019</xref> mostraron que la brecha digital de primer nivel se ha desplazado desde las diferencias en el acceso físico hacia las desigualdades en el acceso material: ya no se trata solo de tener o no tener Internet, sino de las condiciones concretas en que se accede. Un estudiante que solo dispone de un teléfono celular con datos móviles limitados enfrenta restricciones cualitativas muy distintas a las de quien cuenta con una computadora de escritorio, conexión de fibra óptica y un espacio privado de trabajo. Estas diferencias, a menudo invisibilizadas por las estadísticas agregadas de penetración de Internet, tienen consecuencias directas sobre las posibilidades de aprendizaje.</p>
       </sec>
-      <sec id="sec-4">
+      <sec id="sec-4" sec-type="methods">
          <title>Metodología</title>
          <p>Se diseñó un estudio de métodos mixtos con un componente cuantitativo principal y un componente cualitativo complementario. La muestra cuantitativa incluyó 1.247 estudiantes de grado: 623 de la Facultad de Ciencias Sociales de la UBA y 624 de la Facultad de Ciencias Políticas y Sociales de la UNAM, seleccionados mediante muestreo estratificado por carrera y año de cursada durante el segundo semestre de 2022.</p>
          <p>Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acceso digital, operacionalizadas a partir del modelo de van Dijk <xref ref-type="bibr" rid="bib-2553-VANDIJK2020">2553-VANDIJK2020</xref> : acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk <xref ref-type="bibr" rid="bib-2554VANDEURSEN2019">2554VANDEURSEN2019</xref> , 12 ítems, α = 0,91) y resultados académicos (promedio ponderado del período 2020-2022, materias aprobadas por semestre). El componente cualitativo consistió en 40 entrevistas semiestructuradas (20 por universidad) con estudiantes que presentaban perfiles contrastantes en las variables de interés.</p>
@@ -112,74 +108,74 @@ This study examines the relationship between digital access conditions and acade
       <sec id="sec-5">
          <title>Condiciones de acceso material</title>
          <p>La Tabla 1 resume las condiciones de acceso material de los estudiantes en ambas universidades. Se observan diferencias significativas tanto entre universidades como entre quintiles de ingreso.</p>
-         <table-wrap id="tbl-1">
+         <table-wrap id="tbl-1" position="float" orientation="portrait">
             <table>
-               <colgroup>
-                  <col width="41%"/>
-                  <col width="14%"/>
-                  <col width="14%"/>
-                  <col width="15%"/>
-                  <col width="15%"/>
+               <colgroup span="1">
+                  <col width="41%" span="1"/>
+                  <col width="14%" span="1"/>
+                  <col width="14%" span="1"/>
+                  <col width="15%" span="1"/>
+                  <col width="15%" span="1"/>
                </colgroup>
                <tbody>
                   <tr>
-                     <td align="left">
+                     <td align="left" rowspan="1" colspan="1">
                         <bold>Indicador</bold>
                      </td>
-                     <td align="left">
+                     <td align="left" rowspan="1" colspan="1">
                         <bold>UBA Q1</bold>
                      </td>
-                     <td align="left">
+                     <td align="left" rowspan="1" colspan="1">
                         <bold>UBA Q5</bold>
                      </td>
-                     <td align="left">
+                     <td align="left" rowspan="1" colspan="1">
                         <bold>UNAM Q1</bold>
                      </td>
-                     <td align="left">
+                     <td align="left" rowspan="1" colspan="1">
                         <bold>UNAM Q5</bold>
                      </td>
                   </tr>
                   <tr>
-                     <td align="left">Computadora de escritorio o portátil</td>
-                     <td align="left">42,3</td>
-                     <td align="left">96,1</td>
-                     <td align="left">38,7</td>
-                     <td align="left">94,5</td>
+                     <td align="left" rowspan="1" colspan="1">Computadora de escritorio o portátil</td>
+                     <td align="left" rowspan="1" colspan="1">42,3</td>
+                     <td align="left" rowspan="1" colspan="1">96,1</td>
+                     <td align="left" rowspan="1" colspan="1">38,7</td>
+                     <td align="left" rowspan="1" colspan="1">94,5</td>
                   </tr>
                   <tr>
-                     <td align="left">Conexión fija (fibra o cable)</td>
-                     <td align="left">51,8</td>
-                     <td align="left">93,4</td>
-                     <td align="left">35,2</td>
-                     <td align="left">91,8</td>
+                     <td align="left" rowspan="1" colspan="1">Conexión fija (fibra o cable)</td>
+                     <td align="left" rowspan="1" colspan="1">51,8</td>
+                     <td align="left" rowspan="1" colspan="1">93,4</td>
+                     <td align="left" rowspan="1" colspan="1">35,2</td>
+                     <td align="left" rowspan="1" colspan="1">91,8</td>
                   </tr>
                   <tr>
-                     <td align="left">Espacio privado de estudio</td>
-                     <td align="left">28,6</td>
-                     <td align="left">87,9</td>
-                     <td align="left">24,1</td>
-                     <td align="left">85,3</td>
+                     <td align="left" rowspan="1" colspan="1">Espacio privado de estudio</td>
+                     <td align="left" rowspan="1" colspan="1">28,6</td>
+                     <td align="left" rowspan="1" colspan="1">87,9</td>
+                     <td align="left" rowspan="1" colspan="1">24,1</td>
+                     <td align="left" rowspan="1" colspan="1">85,3</td>
                   </tr>
                   <tr>
-                     <td align="left">Dispositivo de uso exclusivo</td>
-                     <td align="left">35,4</td>
-                     <td align="left">94,7</td>
-                     <td align="left">31,6</td>
-                     <td align="left">92,1</td>
+                     <td align="left" rowspan="1" colspan="1">Dispositivo de uso exclusivo</td>
+                     <td align="left" rowspan="1" colspan="1">35,4</td>
+                     <td align="left" rowspan="1" colspan="1">94,7</td>
+                     <td align="left" rowspan="1" colspan="1">31,6</td>
+                     <td align="left" rowspan="1" colspan="1">92,1</td>
                   </tr>
                   <tr>
-                     <td align="left">Velocidad ≥ 20 Mbps</td>
-                     <td align="left">23,1</td>
-                     <td align="left">88,2</td>
-                     <td align="left">18,4</td>
-                     <td align="left">86,7</td>
+                     <td align="left" rowspan="1" colspan="1">Velocidad ≥ 20 Mbps</td>
+                     <td align="left" rowspan="1" colspan="1">23,1</td>
+                     <td align="left" rowspan="1" colspan="1">88,2</td>
+                     <td align="left" rowspan="1" colspan="1">18,4</td>
+                     <td align="left" rowspan="1" colspan="1">86,7</td>
                   </tr>
                   <tr>
-                     <td align="left">Acceso simultáneo sin degradación</td>
-                     <td align="left">19,7</td>
-                     <td align="left">82,5</td>
-                     <td align="left">15,3</td>
-                     <td align="left">79,8</td>
+                     <td align="left" rowspan="1" colspan="1">Acceso simultáneo sin degradación</td>
+                     <td align="left" rowspan="1" colspan="1">19,7</td>
+                     <td align="left" rowspan="1" colspan="1">82,5</td>
+                     <td align="left" rowspan="1" colspan="1">15,3</td>
+                     <td align="left" rowspan="1" colspan="1">79,8</td>
                   </tr>
                </tbody>
             </table>
@@ -190,8 +186,12 @@ This study examines the relationship between digital access conditions and acade
          <title>Habilidades digitales y rendimiento académico</title>
          <p>El análisis de regresión múltiple mostró que las habilidades digitales, medidas mediante la escala adaptada, constituyen el predictor más fuerte del rendimiento académico en el período analizado (β = 0,34; p &lt; 0,001), por encima del acceso material (β = 0,21; p &lt; 0,01) y del acceso motivacional (β = 0,18; p &lt; 0,01). Sin embargo, el análisis de mediación reveló que las habilidades digitales operan, en buena medida, como variable mediadora entre el acceso material y el rendimiento: los estudiantes con mejores condiciones materiales desarrollan habilidades digitales más sofisticadas, lo que a su vez se traduce en mejores resultados académicos.</p>
          <p>La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.</p>
-         <boxed-text id="Figura01">
-            <graphic mimetype="image" mime-subtype="" xlink:href="media/Figura01"/>
+         <boxed-text id="Figura01" position="float" orientation="portrait">
+            <graphic mimetype="image"
+                     mime-subtype=""
+                     xlink:href="media/Figura01"
+                     position="float"
+                     orientation="portrait"/>
          </boxed-text>
          <p>
             <bold>Figura 1.</bold> Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; *p &lt; 0,05; **p &lt; 0,01; ***p &lt; 0,001.</p>
@@ -201,13 +201,13 @@ This study examines the relationship between digital access conditions and acade
          <p>Las entrevistas en profundidad permitieron iluminar los mecanismos concretos a través de los cuales opera la desigualdad digital en la vida cotidiana de los estudiantes. Un hallazgo recurrente fue lo que denominamos “gestión del ancho de banda doméstico”: en hogares donde varios miembros comparten una única conexión, los estudiantes desarrollan estrategias de negociación del uso de Internet que incluyen cursar en horarios de baja demanda, desactivar la cámara durante las clases sincrónicas para reducir el consumo de datos o descargar materiales en horarios nocturnos.</p>
          <p>Otro hallazgo relevante fue la relación entre el tipo de dispositivo y las prácticas de escritura académica. Los estudiantes que accedían predominantemente desde teléfonos móviles reportaron dificultades significativas para la redacción de trabajos extensos, la consulta simultánea de múltiples fuentes y el uso de herramientas de gestión bibliográfica. Estas restricciones operativas se traducían, según los entrevistados, en entregas de menor calidad y en una percepción de desventaja respecto de sus compañeros con mejores condiciones de equipamiento.</p>
       </sec>
-      <sec id="sec-8">
+      <sec id="sec-8" sec-type="discussion">
          <title>Discusión</title>
          <p>Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk <xref ref-type="bibr" rid="bib-2553-VANDIJK2020">2553-VANDIJK2020</xref> para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad —que, aun siendo desigual, ha mejorado significativamente— sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.</p>
          <p>El efecto mediador de las habilidades digitales sobre la relación entre acceso material y rendimiento coincide con lo reportado por Hargittai <xref ref-type="bibr" rid="bib-2555-HARGITTAI2002">2555-HARGITTAI2002</xref> en contextos del norte global y sugiere que las políticas de inclusión digital que se limitan a la provisión de dispositivos y conectividad resultan necesarias pero insuficientes. Sin intervenciones específicas orientadas al desarrollo de competencias digitales —no solo instrumentales sino también informacionales y estratégicas—, el acceso material no se traduce automáticamente en mejores oportunidades educativas.</p>
          <p>La comparación entre la UBA y la UNAM muestra pautas notablemente similares en ambos contextos, lo que sugiere que la desigualdad digital en la educación superior responde a factores estructurales que trascienden las particularidades nacionales. En ambos casos, la variable con mayor poder discriminante es el origen socioeconómico del estudiante, que condiciona simultáneamente las distintas dimensiones del acceso digital. Este hallazgo es consistente con la tesis de la CEPAL sobre la reproducción digital de la “matriz de la desigualdad social” latinoamericana <xref ref-type="bibr" rid="bib-2556-CEPAL2021">2556-CEPAL2021</xref> .</p>
       </sec>
-      <sec id="sec-9">
+      <sec id="sec-9" sec-type="conclusions">
          <title>Conclusiones</title>
          <p>Este estudio aporta evidencia empírica sobre la naturaleza multidimensional de la desigualdad digital en la educación superior latinoamericana. Los datos muestran que, incluso en universidades públicas con políticas activas de inclusión, las condiciones de acceso digital de los estudiantes reproducen las desigualdades socioeconómicas de origen y se traducen en disparidades académicas mensurables.</p>
          <p>Las implicancias para la política universitaria son claras: las estrategias de virtualización o hibridación de la enseñanza deben acompañarse de programas integrales que aborden simultáneamente la provisión de equipamiento, la conectividad, el desarrollo de habilidades digitales y la adaptación de las prácticas pedagógicas a contextos de acceso heterogéneo. De lo contrario, la digitalización de la educación superior corre el riesgo de convertirse en un mecanismo adicional de reproducción de la desigualdad.</p>
@@ -218,7 +218,7 @@ This study examines the relationship between digital access conditions and acade
          <ref id="bib-2555-HARGITTAI2002">
             <element-citation publication-type="journal">
                <person-group person-group-type="author">
-                  <name>
+                  <name name-style="western">
                      <surname>Hargittai</surname>
                      <given-names>Eszter</given-names>
                   </name>
@@ -235,7 +235,7 @@ This study examines the relationship between digital access conditions and acade
          <ref id="bib-2552-WARSCHAUER2004">
             <element-citation publication-type="book">
                <person-group person-group-type="author">
-                  <name>
+                  <name name-style="western">
                      <surname>Warschauer</surname>
                      <given-names>M.</given-names>
                   </name>
@@ -248,7 +248,7 @@ This study examines the relationship between digital access conditions and acade
          <ref id="bib-2553-VANDIJK2020">
             <element-citation publication-type="book">
                <person-group person-group-type="author">
-                  <name>
+                  <name name-style="western">
                      <surname>van Dijk</surname>
                      <given-names>J. A. G. M</given-names>
                   </name>
@@ -261,7 +261,7 @@ This study examines the relationship between digital access conditions and acade
          <ref id="bib-2556-CEPAL2021">
             <element-citation publication-type="report">
                <person-group person-group-type="author">
-                  <name>
+                  <name name-style="western">
                      <surname>CEPAL</surname>
                   </name>
                </person-group>
