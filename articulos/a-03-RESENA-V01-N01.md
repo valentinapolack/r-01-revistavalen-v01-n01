@@ -19,7 +19,7 @@ Desde una perspectiva latinoamericana más amplia, el libro plantea preguntas qu
 
 El libro no está exento de debilidades. La crítica a Freyre, Buarque de Holanda y Faoro, aunque estimulante, resulta por momentos esquemática: al subordinar la lectura de estos autores a la demostración de su tesis, Souza tiende a simplificar obras de considerable complejidad. La categoría de "ralé", por su parte, si bien tiene poder descriptivo, plantea problemas analíticos que el libro no resuelve del todo: ¿se trata de una clase en sentido estricto o de una condición social? ¿Cuáles son sus fronteras empíricas? Finalmente, el tono polémico que recorre toda la obra ---y que sin duda contribuyó a su éxito editorial--- puede resultar excesivo para un público académico habituado a la argumentación matizada.
 
-## Conclusión
+## Conclusión 
 
 Estas objeciones, sin embargo, no disminuyen el valor del libro como intervención intelectual. *A elite do atraso* cumple con la función que toda buena obra de ciencias sociales debería cumplir: obligar a repensar categorías que se daban por sentadas. Para los lectores de habla hispana, el texto ofrece además una oportunidad de reflexionar sobre las propias tradiciones interpretativas nacionales y sobre el modo en que las élites de cada país han construido relatos funcionales a la reproducción de sus privilegios. En un momento en que las derechas radicales avanzan en toda la región apelando a discursos que combinan la meritocracia individual con el desprecio hacia los sectores populares, la lectura de Souza resulta no solo pertinente sino urgente.
 
