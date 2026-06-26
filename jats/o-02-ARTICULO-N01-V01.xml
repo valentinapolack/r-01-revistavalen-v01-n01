@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/5.3.1"
+           xmlns:fr="http://www.crossref.org/fundref.xsd"
+           xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
+           version="5.3.1">
+   <head>
+      <doi_batch_id>gbpublisher-02-ARTICULO-N01-V01-20260626192633</doi_batch_id>
+      <timestamp>20260626192633</timestamp>
+      <depositor>
+         <depositor_name>Polack Ediciones</depositor_name>
+         <email_address>valentinapolack@gmail.com</email_address>
+      </depositor>
+      <registrant>Universidad de Buenos Aires</registrant>
+   </head>
+   <body>
+      <journal>
+         <journal_metadata language="es" reference_distribution_opts="any">
+            <full_title>Revista Valen de ideas</full_title>
+            <issn media_type="electronic">0262-2130</issn>
+         </journal_metadata>
+         <journal_issue>
+            <publication_date media_type="online">
+               <month>06</month>
+               <year>2026</year>
+            </publication_date>
+            <journal_volume>
+               <volume>01</volume>
+            </journal_volume>
+            <issue>01</issue>
+         </journal_issue>
+         <journal_article language="es"
+                          publication_type="full_text"
+                          reference_distribution_opts="any">
+            <titles>
+               <title>Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México</title>
+               <original_language_title language="en">Digital Inequality and Academic Performance in Higher Education: A Comparative Study of Public Universities in Argentina and Mexico</original_language_title>
+            </titles>
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Valentina</given_name>
+                  <surname>Polack</surname>
+                  <ORCID authenticated="true">https://orcid.org/0009-0007-5867-5325</ORCID>
+               </person_name>
+            </contributors>
+            <jats:abstract>
+               <jats:p xml:lang="es">Este estudio analiza la relación entre las condiciones de acceso digital y el rendimiento académico de estudiantes de grado en dos universidades públicas latinoamericanas: la Universidad de Buenos Aires (Argentina) y la Universidad Nacional Autónoma de México. Mediante un diseño de métodos mixtos que combinó una encuesta estructurada (n = 1.247) con entrevistas en profundidad (n = 40), se examinaron cuatro dimensiones de la desigualdad digital: acceso motivacional, acceso material, habilidades digitales y resultados académicos. Los hallazgos muestran que las habilidades digitales constituyen el predictor más fuerte del rendimiento académico y operan como variable mediadora entre el acceso material y los resultados. Las pautas de desigualdad son notablemente similares en ambos contextos nacionales, lo que sugiere determinantes estructurales que trascienden las particularidades locales.</jats:p>
+            </jats:abstract>
+            <jats:abstract>
+               <jats:p xml:lang="en">The article titled "Digital Inequality and Academic Performance in Higher Education: A Comparative Study at Public Universities in Argentina and Mexico" offers a comprehensive analysis of how digital access conditions impact the academic success of undergraduate students. The study focuses on two of the largest public institutions in Latin America: the University of Buenos Aires (UBA) and the National Autonomous University of Mexico (UNAM). By examining these "mega-universities," the authors aim to identify how the digital divide manifests within socially diverse student populations during and after the abrupt transition to virtual learning caused by the COVID-19 pandemic. Historically, the "digital divide" was viewed through a binary lens of those with or without physical access to technology. However, this study adopts a multidimensional framework, specifically the model proposed by Jan van Dijk, which identifies four levels of access: motivational (attitudes), material (devices and connectivity), skills (digital literacy), and results (the actual benefits derived from technology). This perspective allows the research to move beyond simple connectivity statistics and explore the "second-level digital divide," which concerns disparities in how people use and benefit from digital tools. The research employed a mixed-methods design, combining a structured survey of 1,247 students with 40 in-depth interviews. The quantitative data revealed stark disparities in material access based on socio-economic background. For instance, while nearly 95% of students in the highest income quintile (Q5) in both universities possessed their own laptop and a high-speed connection, less than 43% of students in the lowest quintile (Q1) had a computer. Furthermore, the lack of a private study space and sufficient connection speeds for simultaneous household use were significant hurdles for low-income students. This study examines the relationship between digital access conditions and academic performance among undergraduate students at two Latin American public universities: the University of Buenos Aires (Argentina) and the National Autonomous University of Mexico. Using a mixed-methods design combining a structured survey (n = 1,247) with in-depth interviews (n = 40), four dimensions of digital inequality were examined: motivational access, material access, digital skills, and academic outcomes. Findings show that digital skills are the strongest predictor of academic performance and serve as a mediating variable between material access and outcomes. Inequality patterns are remarkably similar across both national contexts, suggesting structural determinants that transcend local particularities.</jats:p>
+            </jats:abstract>
+            <publication_date media_type="online">
+               <month>06</month>
+               <year>2026</year>
+            </publication_date>
+            <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
+               <free_to_read/>
+               <license_ref applies_to="vor">https://creativecommons.org/licenses/by/4.0/</license_ref>
+            </program>
+            <doi_data>
+               <doi>10.5210/fm.v7i4.942</doi>
+               <resource content_version="vor" mime_type="text/html">https://www.goodreads.com/</resource>
+            </doi_data>
+            <citation_list>
+               <citation key="bib-2555-HARGITTAI2002">
+                  <doi>10.5210/fm.v7i4.942</doi>
+                  <unstructured_citation>Hargittai, Eszter (2002). First Monday, 7(4). https://doi.org/10.5210/fm.v7i4.942.</unstructured_citation>
+               </citation>
+               <citation key="bib-2552-WARSCHAUER2004">
+                  <unstructured_citation>Warschauer, M. (2004). Technology and Social Inclusion: Rethinking the Digital Divide. The MIT Press.</unstructured_citation>
+               </citation>
+               <citation key="bib-2553-VANDIJK2020">
+                  <unstructured_citation>van Dijk, J. A. G. M (2020). The Digital Divide. Polity Press.</unstructured_citation>
+               </citation>
+               <citation key="bib-2556-CEPAL2021">
+                  <unstructured_citation>CEPAL (2021). Tecnologías digitales para un nuevo futuro. Comisión Económica para América Latina y el Caribe.</unstructured_citation>
+               </citation>
+            </citation_list>
+         </journal_article>
+      </journal>
+   </body>
+</doi_batch>

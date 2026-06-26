@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ARCHIVO GENERADO AUTOMÁTICAMENTE POR GBPUBLISHER -->
+<!-- Validar contra: ~/.gbpublisher/schemas/doajArticles.xsd -->
+<records>
+   <record>
+      <language>spa</language>
+      <publisher>Polack Ediciones</publisher>
+      <journalTitle>Revista Valen de ideas</journalTitle>
+      <eissn>0262-2130</eissn>
+      <publicationDate>2026-06</publicationDate>
+      <volume>01</volume>
+      <issue>01</issue>
+      <documentType>editorial</documentType>
+      <title language="spa">Las deudas pendientes de la digitalización en América Latina</title>
+      <authors>
+         <author>
+            <name>Polack, Valentina</name>
+            <affiliationId>1</affiliationId>
+            <orcid_id>https://orcid.org/0009-0007-5867-5325</orcid_id>
+         </author>
+      </authors>
+      <affiliationsList>
+         <affiliationName affiliationId="1">Universidad de Buenos Aires</affiliationName>
+      </affiliationsList>
+      <abstract language="spa">El editorial titulado "Las deudas pendientes de la digitalización en América Latina" analiza de forma crítica cómo la pandemia de COVID-19 actuó como un catalizador forzado para la transformación tecnológica en la región. Si bien la crisis sanitaria aceleró procesos que llevaban años gestándose —como la virtualización de la educación, los trámites administrativos y la telemedicina—, esta rapidez también dejó al descubierto y profundizó las fracturas sociales preexistentes. Un punto central del análisis es la infraestructura digital profundamente desigual con la que la región enfrentó la crisis. Mientras las grandes áreas metropolitanas contaban con conexiones de banda ancha estables, las zonas rurales y las periferias urbanas carecían de conectividad básica. El autor subraya que esta brecha no es solo física; se manifiesta también en la falta de competencias digitales de la ciudadanía, la carencia de dispositivos adecuados y una debilidad institucional para ofrecer servicios en línea seguros. Tres años después del punto más crítico de la pandemia, el balance resulta ambivalente. Aunque ha habido una expansión en la penetración de Internet, ha surgido con fuerza la denominada “brecha digital de segundo nivel”. Esta desigualdad de uso implica que los sectores más pobres acceden a la red principalmente mediante teléfonos móviles con datos limitados, lo cual restringe severamente su participación en actividades educativas o laborales complejas que requieren conexiones robustas y pantallas más grandes. El editorial concluye advirtiendo que la digitalización no es un problema meramente tecnológico. Sin políticas públicas integrales que atiendan simultáneamente la conectividad, la formación y el diseño institucional, la tecnología corre el riesgo de amplificar las desigualdades de ingreso, género, etnia y territorio. Finalmente, se presenta esta edición de la revista como una invitación a debatir la transformación digital vinculada a las condiciones materiales de la región, rechazando la idea de que la innovación técnica resolverá por sí sola las deudas históricas sociales.</abstract>
+      <fullTextUrl format="text/html">https://archiveofourown.org/</fullTextUrl>
+      <keywords language="spa">
+         <keyword>Digitalización</keyword>
+         <keyword>América Latina</keyword>
+         <keyword>Brecha digital</keyword>
+         <keyword>Desigualdad social</keyword>
+         <keyword>Conectividad</keyword>
+         <keyword>Políticas públicas</keyword>
+         <keyword>Competencias digitales</keyword>
+         <keyword>Pandemia de COVID-19</keyword>
+         <keyword>Infraestructura digital</keyword>
+         <keyword>Transformación digital</keyword>
+      </keywords>
+   </record>
+</records>

@@ -1,0 +1,30 @@
+{
+  "bibjson": {
+    "title": "Reseña bibliográfica",
+    "year": "2026",
+    "month": "junio",
+    "author": [
+      {
+        "name": "Polack, Valentina",
+        "orcid_id": "https://orcid.org/0009-0007-5867-5325"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "0262-2130"},
+      {"type": "doi", "id": "10.5210/fm.v7i4.942"}
+    ],
+    "journal": {
+      "title": "Revista Valen de ideas",
+      "publisher": "Polack Ediciones",
+      "volume": "01",
+      "number": "01"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://www.wattpad.com/",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

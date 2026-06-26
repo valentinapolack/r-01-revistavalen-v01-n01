@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ARCHIVO GENERADO AUTOMÁTICAMENTE POR GBPUBLISHER -->
+<!-- Validar contra: ~/.gbpublisher/schemas/doajArticles.xsd -->
+<records>
+   <record>
+      <language>spa</language>
+      <publisher>Polack Ediciones</publisher>
+      <journalTitle>Revista Valen de ideas</journalTitle>
+      <eissn>0262-2130</eissn>
+      <publicationDate>2026-06</publicationDate>
+      <volume>01</volume>
+      <issue>01</issue>
+      <documentType>article</documentType>
+      <title language="spa">Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México</title>
+      <authors>
+         <author>
+            <name>Polack, Valentina</name>
+            <affiliationId>1</affiliationId>
+            <orcid_id>https://orcid.org/0009-0007-5867-5325</orcid_id>
+         </author>
+      </authors>
+      <affiliationsList>
+         <affiliationName affiliationId="1">Universidad de Buenos Aires</affiliationName>
+      </affiliationsList>
+      <abstract language="spa">Este estudio analiza la relación entre las condiciones de acceso digital y el rendimiento académico de estudiantes de grado en dos universidades públicas latinoamericanas: la Universidad de Buenos Aires (Argentina) y la Universidad Nacional Autónoma de México. Mediante un diseño de métodos mixtos que combinó una encuesta estructurada (n = 1.247) con entrevistas en profundidad (n = 40), se examinaron cuatro dimensiones de la desigualdad digital: acceso motivacional, acceso material, habilidades digitales y resultados académicos. Los hallazgos muestran que las habilidades digitales constituyen el predictor más fuerte del rendimiento académico y operan como variable mediadora entre el acceso material y los resultados. Las pautas de desigualdad son notablemente similares en ambos contextos nacionales, lo que sugiere determinantes estructurales que trascienden las particularidades locales.</abstract>
+      <fullTextUrl format="text/html">https://www.goodreads.com/</fullTextUrl>
+      <keywords language="spa">
+         <keyword>brecha digital</keyword>
+         <keyword>educación superior</keyword>
+         <keyword>desigualdad</keyword>
+         <keyword>habilidades digitales</keyword>
+         <keyword>América Latina</keyword>
+      </keywords>
+   </record>
+</records>

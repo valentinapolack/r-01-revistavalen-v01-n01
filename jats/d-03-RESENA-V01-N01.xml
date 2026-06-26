@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ARCHIVO GENERADO AUTOMÁTICAMENTE POR GBPUBLISHER -->
+<!-- Validar contra: ~/.gbpublisher/schemas/doajArticles.xsd -->
+<records>
+   <record>
+      <language>spa</language>
+      <publisher>Polack Ediciones</publisher>
+      <journalTitle>Revista Valen de ideas</journalTitle>
+      <eissn>0262-2130</eissn>
+      <publicationDate>2026-06</publicationDate>
+      <volume>01</volume>
+      <issue>01</issue>
+      <documentType>book review</documentType>
+      <title language="spa">Reseña bibliográfica</title>
+      <authors>
+         <author>
+            <name>Polack, Valentina</name>
+            <orcid_id>https://orcid.org/0009-0007-5867-5325</orcid_id>
+         </author>
+      </authors>
+      <fullTextUrl format="text/html">https://www.wattpad.com/</fullTextUrl>
+   </record>
+</records>

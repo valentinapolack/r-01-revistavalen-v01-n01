@@ -1,0 +1,43 @@
+{
+  "bibjson": {
+    "title": "Las deudas pendientes de la digitalización en América Latina",
+    "abstract": "El editorial titulado "Las deudas pendientes de la digitalización en América Latina" analiza de forma crítica cómo la pandemia de COVID-19 actuó como un catalizador forzado para la transformación tecnológica en la región. Si bien la crisis sanitaria aceleró procesos que llevaban años gestándose —como la virtualización de la educación, los trámites administrativos y la telemedicina—, esta rapidez también dejó al descubierto y profundizó las fracturas sociales preexistentes.\nUn punto central del análisis es la infraestructura digital profundamente desigual con la que la región enfrentó la crisis. Mientras las grandes áreas metropolitanas contaban con conexiones de banda ancha estables, las zonas rurales y las periferias urbanas carecían de conectividad básica. El autor subraya que esta brecha no es solo física; se manifiesta también en la falta de competencias digitales de la ciudadanía, la carencia de dispositivos adecuados y una debilidad institucional para ofrecer servicios en línea seguros.\nTres años después del punto más crítico de la pandemia, el balance resulta ambivalente. Aunque ha habido una expansión en la penetración de Internet, ha surgido con fuerza la denominada “brecha digital de segundo nivel”. Esta desigualdad de uso implica que los sectores más pobres acceden a la red principalmente mediante teléfonos móviles con datos limitados, lo cual restringe severamente su participación en actividades educativas o laborales complejas que requieren conexiones robustas y pantallas más grandes.\nEl editorial concluye advirtiendo que la digitalización no es un problema meramente tecnológico. Sin políticas públicas integrales que atiendan simultáneamente la conectividad, la formación y el diseño institucional, la tecnología corre el riesgo de amplificar las desigualdades de ingreso, género, etnia y territorio. Finalmente, se presenta esta edición de la revista como una invitación a debatir la transformación digital vinculada a las condiciones materiales de la región, rechazando la idea de que la innovación técnica resolverá por sí sola las deudas históricas sociales.",
+    "year": "2026",
+    "month": "junio",
+    "keywords": [
+      "Digitalización",
+      "América Latina",
+      "Brecha digital",
+      "Desigualdad social",
+      "Conectividad",
+      "Políticas públicas",
+      "Competencias digitales",
+      "Pandemia de COVID-19",
+      "Infraestructura digital",
+      "Transformación digital"
+    ],
+    "author": [
+      {
+        "name": "Polack, Valentina",
+        "orcid_id": "https://orcid.org/0009-0007-5867-5325"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "0262-2130"},
+      {"type": "doi", "id": "10.5210/fm.v7i4.942"}
+    ],
+    "journal": {
+      "title": "Revista Valen de ideas",
+      "publisher": "Polack Ediciones",
+      "volume": "01",
+      "number": "01"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://archiveofourown.org/",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

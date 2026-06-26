@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/5.3.1"
+           xmlns:fr="http://www.crossref.org/fundref.xsd"
+           xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
+           version="5.3.1">
+   <head>
+      <doi_batch_id>gbpublisher-01-EDITORIAL-V01-N01-20260626192305</doi_batch_id>
+      <timestamp>20260626192305</timestamp>
+      <depositor>
+         <depositor_name>Polack Ediciones</depositor_name>
+         <email_address>valentinapolack@gmail.com</email_address>
+      </depositor>
+      <registrant>Universidad de Buenos Aires</registrant>
+   </head>
+   <body>
+      <journal>
+         <journal_metadata language="es" reference_distribution_opts="any">
+            <full_title>Revista Valen de ideas</full_title>
+            <issn media_type="electronic">0262-2130</issn>
+         </journal_metadata>
+         <journal_issue>
+            <publication_date media_type="online">
+               <month>06</month>
+               <year>2026</year>
+            </publication_date>
+            <journal_volume>
+               <volume>01</volume>
+            </journal_volume>
+            <issue>01</issue>
+         </journal_issue>
+         <journal_article language="es"
+                          publication_type="full_text"
+                          reference_distribution_opts="any">
+            <titles>
+               <title>Las deudas pendientes de la digitalización en América Latina</title>
+            </titles>
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Valentina</given_name>
+                  <surname>Polack</surname>
+                  <ORCID authenticated="true">https://orcid.org/0009-0007-5867-5325</ORCID>
+               </person_name>
+            </contributors>
+            <jats:abstract>
+               <jats:p xml:lang="es">El editorial titulado "Las deudas pendientes de la digitalización en América Latina" analiza de forma crítica cómo la pandemia de COVID-19 actuó como un catalizador forzado para la transformación tecnológica en la región. Si bien la crisis sanitaria aceleró procesos que llevaban años gestándose —como la virtualización de la educación, los trámites administrativos y la telemedicina—, esta rapidez también dejó al descubierto y profundizó las fracturas sociales preexistentes. Un punto central del análisis es la infraestructura digital profundamente desigual con la que la región enfrentó la crisis. Mientras las grandes áreas metropolitanas contaban con conexiones de banda ancha estables, las zonas rurales y las periferias urbanas carecían de conectividad básica. El autor subraya que esta brecha no es solo física; se manifiesta también en la falta de competencias digitales de la ciudadanía, la carencia de dispositivos adecuados y una debilidad institucional para ofrecer servicios en línea seguros. Tres años después del punto más crítico de la pandemia, el balance resulta ambivalente. Aunque ha habido una expansión en la penetración de Internet, ha surgido con fuerza la denominada “brecha digital de segundo nivel”. Esta desigualdad de uso implica que los sectores más pobres acceden a la red principalmente mediante teléfonos móviles con datos limitados, lo cual restringe severamente su participación en actividades educativas o laborales complejas que requieren conexiones robustas y pantallas más grandes. El editorial concluye advirtiendo que la digitalización no es un problema meramente tecnológico. Sin políticas públicas integrales que atiendan simultáneamente la conectividad, la formación y el diseño institucional, la tecnología corre el riesgo de amplificar las desigualdades de ingreso, género, etnia y territorio. Finalmente, se presenta esta edición de la revista como una invitación a debatir la transformación digital vinculada a las condiciones materiales de la región, rechazando la idea de que la innovación técnica resolverá por sí sola las deudas históricas sociales.</jats:p>
+            </jats:abstract>
+            <jats:abstract>
+               <jats:p xml:lang="en">The editorial "The Unfulfilled Debts of Digitalization in Latin America" critically examines the technological transformation triggered by the COVID-19 pandemic. The source argues that while the health crisis served as an involuntary accelerator for virtual education, digital governance, and telemedicine, it simultaneously exposed the deep social fractures within the region. A fundamental aspect of this issue is the profoundly unequal digital infrastructure. Latin America entered the pandemic with a stark contrast between metropolitan centers with stable broadband and rural or peripheral areas lacking basic connectivity. However, the gap is not just physical; it includes a lack of digital literacy, a shortage of appropriate hardware, and insufficient institutional capacity to sustain secure online services. Three years later, the situation remains ambivalent. Despite a significant expansion in internet penetration, a "second-level digital divide" has intensified. This refers to inequalities in how technology is used. Lower-income groups often rely solely on mobile phones with limited data plans, which prevents them from effectively participating in educational or professional activities that demand stable high-speed connections and larger screens. The text emphasizes that digitalization is not an exclusively technological challenge. Without comprehensive public policies that address training, institutional design, and relevant content, digital tools risk magnifying existing inequalities based on income, gender, ethnicity, and territory. The author asserts that assuming infrastructure alone solves the problem is a dangerous simplification. In conclusion, the editorial introduces a collection of works that analyze digital transformation through the lens of material and symbolic conditions. It calls for an urgent and ongoing debate, reminding readers that technological innovation cannot, on its own, resolve the long-standing social and historical debts of the region</jats:p>
+            </jats:abstract>
+            <publication_date media_type="online">
+               <month>06</month>
+               <year>2026</year>
+            </publication_date>
+            <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
+               <free_to_read/>
+               <license_ref applies_to="vor">https://creativecommons.org/licenses/by/4.0/</license_ref>
+            </program>
+            <doi_data>
+               <doi>10.5210/fm.v7i4.942</doi>
+               <resource content_version="vor" mime_type="text/html">https://archiveofourown.org/</resource>
+            </doi_data>
+         </journal_article>
+      </journal>
+   </body>
+</doi_batch>

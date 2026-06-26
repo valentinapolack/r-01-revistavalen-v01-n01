@@ -1,0 +1,38 @@
+{
+  "bibjson": {
+    "title": "Desigualdad digital y rendimiento académico en la educación superior: un estudio comparativo en universidades públicas de Argentina y México",
+    "abstract": "Este estudio analiza la relación entre las condiciones de acceso digital y el rendimiento académico de estudiantes de grado en dos universidades públicas latinoamericanas: la Universidad de Buenos Aires (Argentina) y la Universidad Nacional Autónoma de México. Mediante un diseño de métodos mixtos que combinó una encuesta estructurada (n = 1.247) con entrevistas en profundidad (n = 40), se examinaron cuatro dimensiones de la desigualdad digital: acceso motivacional, acceso material, habilidades digitales y resultados académicos. Los hallazgos muestran que las habilidades digitales constituyen el predictor más fuerte del rendimiento académico y operan como variable mediadora entre el acceso material y los resultados. Las pautas de desigualdad son notablemente similares en ambos contextos nacionales, lo que sugiere determinantes estructurales que trascienden las particularidades locales.",
+    "year": "2026",
+    "month": "junio",
+    "keywords": [
+      "brecha digital",
+      "educación superior",
+      "desigualdad",
+      "habilidades digitales",
+      "América Latina"
+    ],
+    "author": [
+      {
+        "name": "Polack, Valentina",
+        "orcid_id": "https://orcid.org/0009-0007-5867-5325"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "0262-2130"},
+      {"type": "doi", "id": "10.5210/fm.v7i4.942"}
+    ],
+    "journal": {
+      "title": "Revista Valen de ideas",
+      "publisher": "Polack Ediciones",
+      "volume": "01",
+      "number": "01"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://www.goodreads.com/",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

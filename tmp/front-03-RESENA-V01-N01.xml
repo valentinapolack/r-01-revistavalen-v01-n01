@@ -12,6 +12,7 @@
     </publisher>
   </journal-meta>
   <article-meta>
+    <article-id pub-id-type="doi">10.5210/fm.v7i4.942</article-id>
     <article-categories>
       <subj-group subj-group-type="heading">
         <subject>book-review</subject>
@@ -30,6 +31,9 @@
           <given-names>Valentina</given-names>
         </name>
         <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0009-0007-5867-5325</contrib-id>
+        <aff>
+          <institution>Universidad de Buenos Aires</institution>
+        </aff>
       </contrib>
     </contrib-group>
     <pub-date pub-type="epub-ppub">
