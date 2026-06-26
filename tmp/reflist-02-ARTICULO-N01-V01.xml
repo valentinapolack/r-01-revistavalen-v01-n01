@@ -54,5 +54,22 @@
       <year>2021</year>
     </element-citation>
   </ref>
-  <!-- ADVERTENCIA: citekey '2554VANDEURSEN2019' no encontrado en el .bib -->
+  <ref id="bib-2557-VANDEURSEN2019">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>van Deursen</surname>
+          <given-names>A. J. A. M. / van Dijk, J. A. G. M.</given-names>
+        </name>
+      </person-group>
+      <article-title>The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access</article-title>
+      <source>New Media and Society</source>
+      <year>2019</year>
+      <volume>21</volume>
+      <issue>2</issue>
+      <fpage>354</fpage>
+      <lpage>375</lpage>
+      <pub-id pub-id-type="doi">10.1177/1461444817715282</pub-id>
+    </element-citation>
+  </ref>
 </ref-list>

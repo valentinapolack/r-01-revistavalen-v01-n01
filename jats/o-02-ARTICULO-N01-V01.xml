@@ -7,8 +7,8 @@
            xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
            version="5.3.1">
    <head>
-      <doi_batch_id>gbpublisher-02-ARTICULO-N01-V01-20260626192633</doi_batch_id>
-      <timestamp>20260626192633</timestamp>
+      <doi_batch_id>gbpublisher-02-ARTICULO-N01-V01-20260626214552</doi_batch_id>
+      <timestamp>20260626214552</timestamp>
       <depositor>
          <depositor_name>Polack Ediciones</depositor_name>
          <email_address>valentinapolack@gmail.com</email_address>
@@ -66,16 +66,72 @@
             <citation_list>
                <citation key="bib-2555-HARGITTAI2002">
                   <doi>10.5210/fm.v7i4.942</doi>
-                  <unstructured_citation>Hargittai, Eszter (2002). First Monday, 7(4). https://doi.org/10.5210/fm.v7i4.942.</unstructured_citation>
+                  <unstructured_citation>Hargittai, Eszter (
+      
+      2002
+     
+     ). First Monday, 
+      
+      7
+     
+     (
+      
+      4
+     
+     ). https://doi.org/
+      
+      10.5210/fm.v7i4.942
+     
+     .</unstructured_citation>
                </citation>
                <citation key="bib-2552-WARSCHAUER2004">
-                  <unstructured_citation>Warschauer, M. (2004). Technology and Social Inclusion: Rethinking the Digital Divide. The MIT Press.</unstructured_citation>
+                  <unstructured_citation>Warschauer, M. (
+      
+      2004
+     
+     ). Technology and Social Inclusion: Rethinking the Digital Divide. The MIT Press.</unstructured_citation>
                </citation>
                <citation key="bib-2553-VANDIJK2020">
-                  <unstructured_citation>van Dijk, J. A. G. M (2020). The Digital Divide. Polity Press.</unstructured_citation>
+                  <unstructured_citation>van Dijk, J. A. G. M (
+      
+      2020
+     
+     ). The Digital Divide. Polity Press.</unstructured_citation>
                </citation>
                <citation key="bib-2556-CEPAL2021">
-                  <unstructured_citation>CEPAL (2021). Tecnologías digitales para un nuevo futuro. Comisión Económica para América Latina y el Caribe.</unstructured_citation>
+                  <unstructured_citation>CEPAL (
+      
+      2021
+     
+     ). Tecnologías digitales para un nuevo futuro. Comisión Económica para América Latina y el Caribe.</unstructured_citation>
+               </citation>
+               <citation key="bib-2557-VANDEURSEN2019">
+                  <doi>10.1177/1461444817715282</doi>
+                  <unstructured_citation>van Deursen, A. J. A. M. / van Dijk, J. A. G. M. (
+      
+      2019
+     
+     ). The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access. New Media and Society, 
+      
+      21
+     
+     (
+      
+      2
+     
+     ), 
+      
+      354
+     
+     -
+      
+      375
+     
+     . https://doi.org/
+      
+      10.1177/1461444817715282
+     
+     .</unstructured_citation>
                </citation>
             </citation_list>
          </journal_article>
