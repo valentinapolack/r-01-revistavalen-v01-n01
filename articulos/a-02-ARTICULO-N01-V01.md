@@ -71,12 +71,11 @@ La Figura 1 presenta el modelo de mediación estimado con las cargas estandariza
 
 :::{.figure #Figura01}
 
-![](media/ChatGPT Image Jun 26, 2026, 01_56_56 AM.png)
+![](media/Figura01)
 
 :::
 
 **Figura 1.** Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; \*p \< 0,05; \*\*p \< 0,01; \*\*\*p \< 0,001.
-:::
 
 ## Experiencias de la brecha: evidencia cualitativa
 

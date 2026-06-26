@@ -93,7 +93,7 @@
   <p>El análisis de regresión múltiple mostró que las habilidades digitales, medidas mediante la escala adaptada, constituyen el predictor más fuerte del rendimiento académico en el período analizado (β = 0,34; p &lt; 0,001), por encima del acceso material (β = 0,21; p &lt; 0,01) y del acceso motivacional (β = 0,18; p &lt; 0,01). Sin embargo, el análisis de mediación reveló que las habilidades digitales operan, en buena medida, como variable mediadora entre el acceso material y el rendimiento: los estudiantes con mejores condiciones materiales desarrollan habilidades digitales más sofisticadas, lo que a su vez se traduce en mejores resultados académicos.</p>
   <p>La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.</p>
   <boxed-text id="Figura01">
-    <graphic mimetype="image" mime-subtype="png" xlink:href="media/ChatGPT%20Image%20Jun%2026,%202026,%2001_56_56%20AM.png" />
+    <graphic mimetype="image" mime-subtype="" xlink:href="media/Figura01" />
   </boxed-text>
   <p><bold>Figura 1.</bold> Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; *p &lt; 0,05; **p &lt; 0,01; ***p &lt; 0,001.</p>
 </sec>
@@ -101,7 +101,6 @@
   <title>Experiencias de la brecha: evidencia cualitativa</title>
   <p>Las entrevistas en profundidad permitieron iluminar los mecanismos concretos a través de los cuales opera la desigualdad digital en la vida cotidiana de los estudiantes. Un hallazgo recurrente fue lo que denominamos “gestión del ancho de banda doméstico”: en hogares donde varios miembros comparten una única conexión, los estudiantes desarrollan estrategias de negociación del uso de Internet que incluyen cursar en horarios de baja demanda, desactivar la cámara durante las clases sincrónicas para reducir el consumo de datos o descargar materiales en horarios nocturnos.</p>
   <p>Otro hallazgo relevante fue la relación entre el tipo de dispositivo y las prácticas de escritura académica. Los estudiantes que accedían predominantemente desde teléfonos móviles reportaron dificultades significativas para la redacción de trabajos extensos, la consulta simultánea de múltiples fuentes y el uso de herramientas de gestión bibliográfica. Estas restricciones operativas se traducían, según los entrevistados, en entregas de menor calidad y en una percepción de desventaja respecto de sus compañeros con mejores condiciones de equipamiento.</p>
-  <p>:::</p>
 </sec>
 <sec id="discusión">
   <title>Discusión</title>
